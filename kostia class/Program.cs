@@ -10,8 +10,8 @@ namespace kostia_class
     {
         static void Main(string[] args)
         {
-            //secend change
-            Console.WriteLine("secend change");
+            //test New branch
+            Console.WriteLine("first commit");
             //first change
             Console.WriteLine("first change");
         }
