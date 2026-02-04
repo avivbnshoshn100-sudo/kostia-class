@@ -10,8 +10,6 @@ namespace kostia_class
     {
         static void Main(string[] args)
         {
-            //secend change
-            Console.WriteLine("secend change");
             //first change
             Console.WriteLine("first change");
         }
